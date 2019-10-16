@@ -1,4 +1,6 @@
 # Crop and Maize Tassel Segmentation Dataset
+![crop and maize tassels](crop_tassel.jpg)
+
 This repository describes the joint crop and maize tassel segmentation dataset presented in our work:
 
 **[Region-based colour modelling for joint crop and maize tassel segmentation](https://doi.org/10.1016/j.biosystemseng.2016.04.007)** (Journal Version)
@@ -17,7 +19,8 @@ Huazhong University of Science and Technology, China
 
 ## Highlights
 - 208 crop and 70 maize tassel images
-- High-quality pixel-level annotatations
+- High-quality manually labeled pixel-level annotatations
+- Images are captured in the field under different illumination conditions and are with cluttered background
 
 ## Downloads
 [Google Drive (114M)](https://drive.google.com/open?id=0B3VP9kTetyv1ZDhGWW9PVnJFd2s)
